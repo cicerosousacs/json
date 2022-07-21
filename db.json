@@ -1,0 +1,56 @@
+[
+  {
+    "id": 1,
+    "descricao": "BALCÃO 1",
+    "link": "https://meet.google.com/fmw-fypz-ffq",
+    "status": "indisponivel"
+  },
+  {
+    "id": 2,
+    "descricao": "BALCÃO 2",
+    "link": "https://meet.google.com/uhg-dzbn-xxk",
+    "status": "indisponivel"
+  },
+  {
+    "id": 3,
+    "descricao": "BALCÃO 3",
+    "link": "https://meet.google.com/ttg-dzbn-xxx",
+    "status": "indisponivel"
+  },
+  {
+    "id": 4,
+    "descricao": "BALCÃO 4",
+    "link": "https://meet.google.com/gsa-ddgt-cdt",
+    "status": "indisponivel"
+  },
+  {
+    "id": 5,
+    "descricao": "BALCÃO 5",
+    "link": "https://meet.google.com/afe-sdfg-tyh",
+    "status": "indisponivel"
+  },
+  {
+    "id": 6,
+    "descricao": "BALCÃO 6",
+    "link": "https://meet.google.com/ack-kdlo-ddr",
+    "status": "indisponivel"
+  },
+  {
+    "id": 7,
+    "descricao": "BALCÃO 7",
+    "link": "https://meet.google.com/ack-kdlo-ddr",
+    "status": "indisponivel"
+  },
+  {
+    "id": 8,
+    "descricao": "BALCÃO 8",
+    "link": "https://meet.google.com/ack-kdlo-ddr",
+    "status": "indisponivel"
+  },
+  {
+    "id": 9,
+    "descricao": "BALCÃO 9",
+    "link": "https://meet.google.com/ack-kdlo-ddr",
+    "status": "indisponivel"
+  }
+]
